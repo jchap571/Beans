@@ -1,0 +1,64 @@
+/* NOTE  */
+
+
+body {
+  background-color: #609bf3;
+  font-family: "Open Sans", sans-serif;
+
+
+
+
+}
+
+
+
+.row.head {
+  min-height: 50vh;
+  background-image: url(computerguy.png);
+  background-size: cover;
+  text-align: left;
+
+  background-color: rgb(255, 155, 4);
+}
+
+button.stylus {
+  background-color: #609bf3;
+  border-radius: 3px;
+  border: none;
+
+}
+
+button.subscribe {
+  background-color: #609bf3;
+}
+
+.container.two {
+  background-color: #609bf3;
+  min-height: 20vh;
+}
+
+i {
+  height: 10px;
+}
+
+.container-fluid.three {
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+  min-height: 20vh;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.mapimage {
+  width: 100%;
+  object-fit: cover;
+  height: 20vh;
+
+}
+
+.container-fluid.end {
+  background-color: black;
+  min-height: 5vh;
+}
